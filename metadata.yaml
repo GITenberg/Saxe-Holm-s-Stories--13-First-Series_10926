@@ -1,5 +1,8 @@
 _repo: Saxe-Holm-s-Stories--13-First-Series_10926
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jackson, Helen Hunt
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1030
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10926#Saxe-Holm-s-Stories--13-First-Series
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
